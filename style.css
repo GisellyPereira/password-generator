@@ -97,3 +97,28 @@ button:active{
         opacity: 1;
     }
 }
+
+@media (max-width:500px){
+    
+    .all{
+        padding: 20px;
+    }
+    input[type=text]{
+        width: 200px;
+    }
+    input[type=checkbox]{
+        width: 17px;
+        height: 17px;
+    }
+    .labelLengthId{
+        font-size: 23px;
+    }
+    .message{
+        width: 200px;
+        padding: 12px 30px;  
+        font-size: 18px;
+       
+    }
+
+    
+}
