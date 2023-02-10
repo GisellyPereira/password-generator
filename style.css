@@ -12,6 +12,12 @@ body{
     align-items: center;
     background: #e5eef6;
 }
+.title{
+    color: #aa1f2b;
+    font-size: 35px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
 .all{
     padding: 20px;
     box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
@@ -51,7 +57,7 @@ input[type=range]{
 .labelLengthId{
     color: #cfd8dc;
     font-weight: 500;
-    font-size: 27px;
+    font-size: 23px;
 }
 button{
     padding: 5px;

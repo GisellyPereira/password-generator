@@ -79,7 +79,7 @@ function ativar(msg){
 
     setTimeout(() => {
         message.style.display="none";
-    }, 9000);
+    }, 1000);
 
 }
 
